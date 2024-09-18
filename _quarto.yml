@@ -1,1 +1,3 @@
-{\rtf1}
+project:
+  type: website
+  output-dir: docs
